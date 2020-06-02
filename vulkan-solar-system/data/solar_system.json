@@ -1,0 +1,689 @@
+{
+  "sol": {
+    "rotation-velocity": 15.0,
+    "scale": {
+      "x": 40.0,
+      "y": 40.0,
+      "z": 40.0
+    },
+    "image-extension": "jpg"
+  },
+  "planets": {
+    "mercury": {
+      "orbit": {
+        "distance-from-sun": 100.0,
+        "velocity": 4.09,
+        "inclination": 3.38
+      },
+      "rotation": {
+        "velocity": 6.10,
+        "axial-tilt": 2.04
+      },
+      "scale": {
+        "x": 0.39,
+        "y": 0.39,
+        "z": 0.39
+      },
+      "image-extension": "jpg"
+    },
+    "venus": {
+      "orbit": {
+        "distance-from-sun": 200.0,
+        "velocity": 1.6,
+        "inclination": 3.86
+      },
+      "rotation": {
+        "velocity": -1.48,
+        "axial-tilt": 2.64
+      },
+      "scale": {
+        "x": 0.95,
+        "y": 0.95,
+        "z": 0.95
+      },
+      "image-extension": "jpg"
+    },
+    "earth": {
+      "orbit": {
+        "distance-from-sun": 300.0,
+        "velocity": 0.986,
+        "inclination": 7.155
+      },
+      "rotation": {
+        "velocity": 360.0,
+        "axial-tilt": 23.439
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "moons": {
+        "luna": {
+          "orbit": {
+            "distance-from-planet": 7.7,
+            "velocity": 13.333,
+            "inclination": 5.145
+          },
+          "rotation": {
+            "velocity": 0.075,
+            "axial-tilt": 6.687
+          },
+          "scale": {
+            "x": 0.28,
+            "y": 0.28,
+            "z": 0.28
+          },
+          "image-extension": "jpg"
+        }
+      },
+      "image-extension": "png"
+    },
+    "mars": {
+      "orbit": {
+        "distance-from-sun": 400.0,
+        "velocity": 0.524,
+        "inclination": 5.65
+      },
+      "rotation": {
+        "velocity": 350.88,
+        "axial-tilt": 25.19
+      },
+      "scale": {
+        "x": 0.53,
+        "y": 0.53,
+        "z": 0.53
+      },
+      "moons": {
+        "phobos": {
+          "orbit": {
+            "distance-from-planet": 1.8,
+            "velocity": 1080.0,
+            "inclination": 1.093
+          },
+          "rotation": {
+            "velocity": 0.00093,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.042,
+            "y": 0.035,
+            "z": 0.028
+          },
+          "image-extension": "jpg"
+        },
+        "deimos": {
+          "orbit": {
+            "distance-from-planet": 4.8,
+            "velocity": 292.68,
+            "inclination": 0.93
+          },
+          "rotation": {
+            "velocity": 0.0034,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.023,
+            "y": 0.019,
+            "z": 0.017
+          },
+          "image-extension": "jpg"
+        }
+      },
+      "image-extension": "jpg"
+    },
+    "ceres": {
+      "orbit": {
+        "distance-from-sun": 600.0,
+        "velocity": 0.217,
+        "inclination": 9.65
+      },
+      "rotation": {
+        "velocity": 960,
+        "axial-tilt": 4.00
+      },
+      "scale": {
+        "x": 0.15,
+        "y": 0.15,
+        "z": 0.15
+      },
+      "image-extension": "jpg"
+    },
+    "jupiter": {
+      "orbit": {
+        "distance-from-sun": 1000.0,
+        "velocity": 0.0831,
+        "inclination": 6.09
+      },
+      "rotation": {
+        "velocity": 864.0,
+        "axial-tilt": 3.13
+      },
+      "scale": {
+        "x": 11.2,
+        "y": 11.2,
+        "z": 11.2
+      },
+      "moons": {
+        "amalthea": {
+          "orbit": {
+            "distance-from-planet": 33.6,
+            "velocity": 720.0,
+            "inclination": 2.565
+          },
+          "rotation": {
+            "velocity": 0.0013889,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.039,
+            "y": 0.02,
+            "z": 0.023
+          },
+          "image-extension": "jpg"
+        },
+        "io": {
+          "orbit": {
+            "distance-from-planet": 38.4,
+            "velocity": 203.4,
+            "inclination": 0.05
+          },
+          "rotation": {
+            "velocity": 0.00492,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.29,
+            "y": 0.29,
+            "z": 0.29
+          },
+          "image-extension": "png"
+        },
+        "europa": {
+          "orbit": {
+            "distance-from-planet": 43.4,
+            "velocity": 101.4,
+            "inclination": 2.565
+          },
+          "rotation": {
+            "velocity": 0.00986,
+            "axial-tilt": 0.471
+          },
+          "scale": {
+            "x": 0.24,
+            "y": 0.24,
+            "z": 0.24
+          },
+          "image-extension": "png"
+        },
+        "ganymede": {
+          "orbit": {
+            "distance-from-planet": 51.4,
+            "velocity": 50.35,
+            "inclination": 0.204
+          },
+          "rotation": {
+            "velocity": 0.02,
+            "axial-tilt": 0.33
+          },
+          "scale": {
+            "x": 0.41,
+            "y": 0.41,
+            "z": 0.41
+          },
+          "image-extension": "png"
+        },
+        "callisto": {
+          "orbit": {
+            "distance-from-planet": 67.6,
+            "velocity": 21.5,
+            "inclination": 0.205
+          },
+          "rotation": {
+            "velocity": 0.046,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.38,
+            "y": 0.38,
+            "z": 0.38
+          },
+          "image-extension": "png"
+        }
+      },
+      "image-extension": "png"
+    },
+    "saturn": {
+      "orbit": {
+        "distance-from-sun": 1500.0,
+        "velocity": 0.0335,
+        "inclination": 5.51
+      },
+      "rotation": {
+        "velocity": 836.4,
+        "axial-tilt": 26.73
+      },
+      "scale": {
+        "x": 9.45,
+        "y": 9.45,
+        "z": 9.45
+      },
+      "rings": {
+        "rotation": {
+          "velocity": 400.0,
+          "inclination": 0.0
+        },
+        "scale": 52.0,
+        "image-extension": "png"
+      },
+      "moons": {
+        "mimas": {
+          "orbit": {
+            "distance-from-planet": 43.7,
+            "velocity": 383.0,
+            "inclination": 1.566
+          },
+          "rotation": {
+            "velocity": 0.0026,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.08,
+            "y": 0.08,
+            "z": 0.08
+          },
+          "image-extension": "jpg"
+        },
+        "enceladus": {
+          "orbit": {
+            "distance-from-planet": 44.8,
+            "velocity": 262.7,
+            "inclination": 0.01
+          },
+          "rotation": {
+            "velocity": 0.0038,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.1,
+            "y": 0.1,
+            "z": 0.1
+          },
+          "image-extension": "jpg"
+        },
+        "tethys": {
+          "orbit": {
+            "distance-from-planet": 45.9,
+            "velocity": 189.5,
+            "inclination": 0.168
+          },
+          "rotation": {
+            "velocity": 0.0052,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.15,
+            "y": 0.15,
+            "z": 0.15
+          },
+          "image-extension": "jpg"
+        },
+        "dione": {
+          "orbit": {
+            "distance-from-planet": 47.6,
+            "velocity": 133.33,
+            "inclination": 0.002
+          },
+          "rotation": {
+            "velocity": 0.0075,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.155,
+            "y": 0.155,
+            "z": 0.155
+          },
+          "image-extension": "jpg"
+        },
+        "rhea": {
+          "orbit": {
+            "distance-from-planet": 50.6,
+            "velocity": 80.0,
+            "inclination": 0.002
+          },
+          "rotation": {
+            "velocity": 0.0125,
+            "axial-tilt": 0.327
+          },
+          "scale": {
+            "x": 0.2,
+            "y": 0.2,
+            "z": 0.2
+          },
+          "image-extension": "jpg"
+        },
+        "titan": {
+          "orbit": {
+            "distance-from-planet": 64.4,
+            "velocity": 22.5,
+            "inclination": 0.349
+          },
+          "rotation": {
+            "velocity": 0.0444,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.4,
+            "y": 0.4,
+            "z": 0.4
+          },
+          "image-extension": "jpg"
+        },
+        "iapetus": {
+          "orbit": {
+            "distance-from-planet": 111.2,
+            "velocity": 4.5,
+            "inclination": 15.47
+          },
+          "rotation": {
+            "velocity": 0.222,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.18,
+            "y": 0.18,
+            "z": 0.18
+          },
+          "image-extension": "jpg"
+        }
+      },
+      "image-extension": "jpg"
+    },
+    "uranus": {
+      "orbit": {
+        "distance-from-sun": 2000.0,
+        "velocity": 0.0117,
+        "inclination": 6.48
+      },
+      "rotation": {
+        "velocity": 508.3,
+        "axial-tilt": 97.77
+      },
+      "scale": {
+        "x": 4.0,
+        "y": 4.0,
+        "z": 4.0
+      },
+      "rings": {
+        "rotation": {
+          "velocity": 275.0,
+          "inclination": 0.0
+        },
+        "scale": 25.0,
+        "image-extension": "png"
+      },
+      "moons": {
+        "miranda": {
+          "orbit": {
+            "distance-from-planet": 22.6,
+            "velocity": 257.1,
+            "inclination": 4.232
+          },
+          "rotation": {
+            "velocity": 0.00388,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.1,
+            "y": 0.1,
+            "z": 0.1
+          },
+          "image-extension": "jpg"
+        },
+        "ariel": {
+          "orbit": {
+            "distance-from-planet": 23.8,
+            "velocity": 144.0,
+            "inclination": 0.26
+          },
+          "rotation": {
+            "velocity": 0.007,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.2,
+            "y": 0.2,
+            "z": 0.2
+          },
+          "image-extension": "jpg"
+        },
+        "umbriel": {
+          "orbit": {
+            "distance-from-planet": 25.4,
+            "velocity": 87.0,
+            "inclination": 0.205
+          },
+          "rotation": {
+            "velocity": 0.0115,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.2,
+            "y": 0.2,
+            "z": 0.2
+          },
+          "image-extension": "jpg"
+        },
+        "titania": {
+          "orbit": {
+            "distance-from-planet": 28.7,
+            "velocity": 41.4,
+            "inclination": 0.340
+          },
+          "rotation": {
+            "velocity": 0.0242,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.25,
+            "y": 0.25,
+            "z": 0.25
+          },
+          "image-extension": "jpg"
+        },
+        "oberon": {
+          "orbit": {
+            "distance-from-planet": 31.7,
+            "velocity": 26.666,
+            "inclination": 0.058
+          },
+          "rotation": {
+            "velocity": 0.0375,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.24,
+            "y": 0.24,
+            "z": 0.24
+          },
+          "image-extension": "jpg"
+        }
+      },
+      "image-extension": "png"
+    },
+    "neptune": {
+      "orbit": {
+        "distance-from-sun": 2750.0,
+        "velocity": 0.006,
+        "inclination": 6.43
+      },
+      "rotation": {
+        "velocity": 540.0,
+        "axial-tilt": 28.32
+      },
+      "scale": {
+        "x": 3.86,
+        "y": 3.86,
+        "z": 3.86
+      },
+      "moons": {
+        "proteus": {
+          "orbit": {
+            "distance-from-planet": 17.4,
+            "velocity": 300.0,
+            "inclination": 0.075
+          },
+          "rotation": {
+            "velocity": 0.00333,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.1,
+            "y": 0.09,
+            "z": 0.1
+          },
+          "image-extension": "jpg"
+        },
+        "triton": {
+          "orbit": {
+            "distance-from-planet": 22.1,
+            "velocity": -61.1,
+            "inclination": 23.135
+          },
+          "rotation": {
+            "velocity": -0.0164,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.21,
+            "y": 0.21,
+            "z": 0.21
+          },
+          "image-extension": "jpg"
+        },
+        "nereid": {
+          "orbit": {
+            "distance-from-planet": 105.0,
+            "velocity": 1.0,
+            "inclination": 7.09
+          },
+          "rotation": {
+            "velocity": 2.0,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.07,
+            "y": 0.06,
+            "z": 0.07
+          },
+          "image-extension": "jpg"
+        }
+      },
+      "image-extension": "png"
+    },
+    "pluto": {
+      "orbit": {
+        "distance-from-sun": 3500.0,
+        "velocity": 0.004,
+        "inclination": 11.88
+      },
+      "rotation": {
+        "velocity": 56.25,
+        "axial-tilt": 122.53
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "moons": {
+        "charon": {
+          "orbit": {
+            "distance-from-planet": 1.4,
+            "velocity": 56.25,
+            "inclination": 0.08
+          },
+          "rotation": {
+            "velocity": 0.01778,
+            "axial-tilt": 0.0
+          },
+          "scale": {
+            "x": 0.1,
+            "y": 0.1,
+            "z": 0.1
+          },
+          "image-extension": "jpg"
+        }
+      },
+      "image-extension": "jpg"
+    },
+    "haumea": {
+      "orbit": {
+        "distance-from-sun": 3750.0,
+        "velocity": 0.0035,
+        "inclination": 28.214
+      },
+      "rotation": {
+        "velocity": 2160.0,
+        "axial-tilt": 10.0
+      },
+      "scale": {
+        "x": 0.17,
+        "y": 0.09,
+        "z": 0.14
+      },
+      "image-extension": "png"
+    },
+    "makemake": {
+      "orbit": {
+        "distance-from-sun": 4250.0,
+        "velocity": 0.0032,
+        "inclination": 28.9835
+      },
+      "rotation": {
+        "velocity": 375.7,
+        "axial-tilt": 5.0
+      },
+      "scale": {
+        "x": 0.12,
+        "y": 0.12,
+        "z": 0.12
+      },
+      "image-extension": "jpg"
+    },
+    "eris": {
+      "orbit": {
+        "distance-from-sun": 5000.0,
+        "velocity": 0.0018,
+        "inclination": 44.04
+      },
+      "rotation": {
+        "velocity": 320.0,
+        "axial-tilt": 25.0
+      },
+      "scale": {
+        "x": 0.19,
+        "y": 0.19,
+        "z": 0.19
+      },
+      "image-extension": "jpg"
+    },
+    "sedna": {
+      "orbit": {
+        "distance-from-sun": 5750.0,
+        "velocity": 0.0000865,
+        "inclination": 11.9307
+      },
+      "rotation": {
+        "velocity": 864.0,
+        "axial-tilt": 3.0
+      },
+      "scale": {
+        "x": 0.15,
+        "y": 0.15,
+        "z": 0.15
+      },
+      "image-extension": "jpg"
+    }
+  }
+}

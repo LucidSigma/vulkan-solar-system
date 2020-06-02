@@ -1,0 +1,16 @@
+{
+	"window": {
+		"size": {
+			"width": 1920,
+			"height": 1080
+		},
+		"title": "Vulkan Engine",
+		"start-as-fullscreen": false
+	},
+	"enable-fullscreen-minimise": false,
+	"enable-vsync": true,
+	"enable-multisample": true,
+	"enable-mipmaps": true,
+	"enable-anisotropy": true,
+	"locale": "en-gb"
+}
