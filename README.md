@@ -44,7 +44,7 @@ This is currently my largest Vulkan project. There are definitely ways in which 
 * [Planet model](https://www.turbosquid.com/3d-models/3d-realistic-earth-photorealistic-2k-1279125)  
 * Textures:  
   * [Planetary texture maps](http://celestia.simulatorlabbs.com/CelSL/textures/lores/)
-  * [More planeterary texture maps](https://www.solarsystemscope.com/textures/)  
+  * [More planetary texture maps](https://www.solarsystemscope.com/textures/)  
   * [Pluto texture map](https://www.deviantart.com/bob3studios/art/Pluto-Texture-Map-Fixed-Blur-762286905)  
   * [Sedna texture map](https://www.deviantart.com/neptuneprogaming/art/Sedna-Texture-Map-718713842)  
   * [Saturn rings](https://www.deviantart.com/alpha-element/art/Stock-Image-Saturn-Rings-393767006)  
